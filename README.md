@@ -1,74 +1,62 @@
-# Disney Characters Explorer
+# Explorador de Personagens da Disney
 
-## About the Project
+## Sobre o Projeto
 
-The **Disney Characters Explorer** is an application focused on displaying and exploring all Disney characters, organized into categories such as movies, TV series, shows, and short films. This project was developed as my first work in **SwiftUI**, aiming to build a portfolio that showcases my skills in iOS development.
+O **Explorador de Personagens da Disney** é uma aplicação focada em exibir e explorar todos os personagens da Disney, organizados em categorias como filmes, séries de TV, shows e curtas-metragens. Este projeto foi desenvolvido como meu primeiro trabalho em **SwiftUI**, com o objetivo de construir um portfólio que destaque minhas habilidades no desenvolvimento para iOS.
 
 ---
 
 <div style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
-  <img src="Project%20Images/imagemSplash.png" alt="Splash Screen" width="250"/>
-  <img src="Project%20Images/imagemTelaHome.png" alt="Home Screen" width="250"/>
-  <img src="Project%20Images/imagemDetalhes.png" alt="Details Screen" width="250"/>
+  <img src="Project%20Images/imagemSplash.png" alt="Tela de Splash" width="250"/>
+  <img src="Project%20Images/imagemTelaHome.png" alt="Tela Inicial" width="250"/>
+  <img src="Project%20Images/imagemDetalhes.png" alt="Tela de Detalhes" width="250"/>
 </div>
 
 ---
 
-## Features
+## Funcionalidades
 
-- **Character Exploration**:
-  - Displays a complete list of Disney characters.
-  - Organized into categories:
-    - Movies
-    - TV Series
+- **Exploração de Personagens**:
+  - Exibe uma lista completa de personagens da Disney.
+  - Organizados em categorias:
+    - Filmes
+    - Séries de TV
     - Shows
-    - Short Films
+    - Curtas-metragens
 
-- **Search and Filters**:
-  - Allows users to search characters by name.
-  - Includes filtering options for efficient navigation.
+- **Busca e Filtros**:
+  - Permite buscar personagens pelo nome.
+  - Inclui opções de filtro para navegação eficiente.
 
-- **Character Details**:
-  - Shows detailed information about the character, including:
-    - Movies in which the character appears.
-    - Names of all related productions.
-    - Theme park attractions related to the character (if available).
+- **Detalhes dos Personagens**:
+  - Exibe informações detalhadas sobre os personagens, incluindo:
+    - Filmes em que o personagem aparece.
+    - Nomes de todas as produções relacionadas.
+    - Atrações de parques temáticos relacionadas ao personagem (se disponível).
 
-- **Visual Focus**:
-  - A modern and immersive user interface built with **SwiftUI**.
-
----
-
-## Preview
-
-<div style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
-  <video width="300" controls>
-    <source src="Project%20Videos/demoVideo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+- **Foco Visual**:
+  - Interface moderna e imersiva construída com **SwiftUI**.
 
 ---
 
-## API Used
+## API Utilizada
 
-This project uses the [Disney API](https://disneyapi.dev/docs/) to fetch information about characters, movies, series, and theme park attractions.
-
----
-
-## Project Goals
-
-This application was developed as my first project in **SwiftUI** with the goals of:
-- Learning the fundamentals of SwiftUI.
-- Building a robust and visually appealing project.
-- Starting a portfolio focused on iOS development.
+Este projeto utiliza a [Disney API](https://disneyapi.dev/docs/) para obter informações sobre personagens, filmes, séries e atrações de parques temáticos.
 
 ---
 
-## Technologies Used
+## Objetivos do Projeto
 
-- **Language**: Swift
+Este aplicativo foi desenvolvido como meu primeiro projeto em **SwiftUI** com os seguintes objetivos:
+- Aprender os fundamentos do SwiftUI.
+- Construir um projeto robusto e visualmente atraente.
+- Iniciar um portfólio focado no desenvolvimento para iOS.
+
+---
+
+## Tecnologias Utilizadas
+
+- **Linguagem**: Swift
 - **Framework**: SwiftUI
-- **Platform**: iOS
+- **Plataforma**: iOS
 - **API**: [Disney API](https://disneyapi.dev/docs/)
-
