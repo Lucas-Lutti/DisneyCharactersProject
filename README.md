@@ -6,6 +6,14 @@ O **Disney Characters Explorer** é um aplicativo focado em exibir e explorar to
 
 ---
 
+<div style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
+  <img src="Project%20Images/imagemSplash.png" alt="Tela Splash" width="250"/>
+  <img src="Project%20Images/imagemTelaHome.png" alt="Tela Home" width="250"/>
+  <img src="Project%20Images/imagemDetalhes.png" alt="Tela de Detalhes" width="250"/>
+</div>
+
+---
+
 ## Funcionalidades
 
 - **Exploração de Personagens**:
@@ -32,16 +40,6 @@ O **Disney Characters Explorer** é um aplicativo focado em exibir e explorar to
 
 ---
 
-## Pré-visualização do Aplicativo
-
-<div style="display: flex; justify-content: space-around;">
-  <img src="Project%20Images/imagemSplash.png" alt="Tela Splash" width="300"/>
-  <img src="Project%20Images/imagemTelaHome.png" alt="Tela Home" width="300"/>
-  <img src="Project%20Images/imagemDetalhes.png" alt="Tela de Detalhes" width="300"/>
-</div>
-
----
-
 ## API Utilizada
 
 Este projeto utiliza a [Disney API](https://disneyapi.dev/docs/) para buscar informações sobre os personagens, filmes, séries e atrações do parque.
@@ -64,10 +62,3 @@ Este aplicativo foi desenvolvido como meu primeiro projeto em **SwiftUI**, com o
 - **Plataforma**: iOS
 - **API**: [Disney API](https://disneyapi.dev/docs/)
 
----
-
-## Como Executar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/disney-characters-explorer.git
