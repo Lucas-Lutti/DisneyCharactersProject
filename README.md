@@ -35,13 +35,13 @@ O **Disney Characters Explorer** é um aplicativo focado em exibir e explorar to
 ## Pré-visualização do Aplicativo
 
 ### Tela Splash
-![Tela Splash](Project%20Images/imagemSplash.png)
+<img src="Project%20Images/imagemSplash.png" alt="Tela Splash" width="400"/>
 
 ### Tela Home
-![Tela Home](Project%20Images/imagemTelaHome.png)
+<img src="Project%20Images/imagemTelaHome.png" alt="Tela Home" width="400"/>
 
 ### Tela de Detalhes
-![Tela de Detalhes](Project%20Images/imagemDetalhes.png)
+<img src="Project%20Images/imagemDetalhes.png" alt="Tela de Detalhes" width="400"/>
 
 ---
 
